@@ -1,6 +1,2 @@
-document.addEventListener("DOMContentLoaded", function() {
-  ;
-});
-
-var p = 
+document.addEventListener("DOMContentLoaded", theDomHasLoaded, false);
 
